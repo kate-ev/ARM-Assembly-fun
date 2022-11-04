@@ -1,4 +1,4 @@
-TARGET := ex1
+TARGET := asum
 OBJ := $(TARGET)_main.o $(TARGET).o
 
 ASFLAGS = -mcpu=xscale -alh=$*.lis -L
